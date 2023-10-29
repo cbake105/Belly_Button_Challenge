@@ -99,3 +99,10 @@ Use the following questions to explore the database, and find the answers, so yo
 4. How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
 
   - Hint: You will need to use the aggregation method to answer this.
+
+
+## Cite 
+AskBCS Learning Assistant
+MongoDB https://www.mongodb.com/docs/manual/
+Class Office hours
+
