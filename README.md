@@ -103,6 +103,8 @@ Use the following questions to explore the database, and find the answers, so yo
 
 ## Cite 
 AskBCS Learning Assistant
+
 MongoDB https://www.mongodb.com/docs/manual/
+
 Class Office hours
 
