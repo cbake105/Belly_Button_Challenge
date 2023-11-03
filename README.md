@@ -10,25 +10,25 @@ Build an interactive dashboard to explore the Belly Button Biodiversity datasetL
 
 2. Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 
-  - Use sample_values as the values for the bar chart.
+    - Use sample_values as the values for the bar chart.
 
-  - Use otu_ids as the labels for the bar chart.
+    - Use otu_ids as the labels for the bar chart.
 
-  - Use otu_labels as the hovertext for the chart.
+    - Use otu_labels as the hovertext for the chart.
 
 <img width="479" alt="Screenshot 2023-11-03 at 12 41 16 AM" src="https://github.com/cbake105/Belly_Button_Challenge/assets/133677209/2485b684-f16e-4f7a-8d5e-11083ce9dcd5">
 
 3. Create a bubble chart that displays each sample.
 
-  - Use otu_ids for the x values.
+    - Use otu_ids for the x values.
 
-  - Use sample_values for the y values.
+    - Use sample_values for the y values.
 
-  - Use sample_values for the marker size.
+    - Use sample_values for the marker size.
 
-  - Use otu_ids for the marker colors.
+    - Use otu_ids for the marker colors.
 
-  - Use otu_labels for the text values.
+    - Use otu_labels for the text values.
 
 <img width="571" alt="Screenshot 2023-11-03 at 12 41 37 AM" src="https://github.com/cbake105/Belly_Button_Challenge/assets/133677209/bce3a284-f347-4221-9238-8867970a96ca">
 
