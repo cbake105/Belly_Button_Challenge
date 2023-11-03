@@ -10,30 +10,37 @@ Build an interactive dashboard to explore the Belly Button Biodiversity datasetL
 
 2. Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
 
-- Use sample_values as the values for the bar chart.
+  - Use sample_values as the values for the bar chart.
 
-- Use otu_ids as the labels for the bar chart.
+  - Use otu_ids as the labels for the bar chart.
 
-- Use otu_labels as the hovertext for the chart.
+  - Use otu_labels as the hovertext for the chart.
+
+<img width="479" alt="Screenshot 2023-11-03 at 12 41 16 AM" src="https://github.com/cbake105/Belly_Button_Challenge/assets/133677209/2485b684-f16e-4f7a-8d5e-11083ce9dcd5">
 
 3. Create a bubble chart that displays each sample.
 
-- Use otu_ids for the x values.
+  - Use otu_ids for the x values.
 
-- Use sample_values for the y values.
+  - Use sample_values for the y values.
 
-- Use sample_values for the marker size.
+  - Use sample_values for the marker size.
 
-- Use otu_ids for the marker colors.
+  - Use otu_ids for the marker colors.
 
-- Use otu_labels for the text values.
+  - Use otu_labels for the text values.
+
+<img width="571" alt="Screenshot 2023-11-03 at 12 41 37 AM" src="https://github.com/cbake105/Belly_Button_Challenge/assets/133677209/bce3a284-f347-4221-9238-8867970a96ca">
 
 4. Display the sample metadata, i.e., an individual's demographic information.
 
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 
+<img width="177" alt="Screenshot 2023-11-03 at 12 42 15 AM" src="https://github.com/cbake105/Belly_Button_Challenge/assets/133677209/1300361b-6366-4a61-872f-1e41b2e2ced1">
+
 6. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
 
+<img width="569" alt="Screenshot 2023-11-03 at 12 42 35 AM" src="https://github.com/cbake105/Belly_Button_Challenge/assets/133677209/126206c9-a557-428b-acfd-a90a8cf958ea">
 
 ## Cite 
 
