@@ -83,7 +83,7 @@ async function Dashboard() {
     buildGauge(firstSample);
 }
 
-function onOptionChanged(newSample) {
+function OptionChanged(newSample) {
     fetchData().then(data => {
         buildCharts(newSample, data);
         SampleMetadata(newSample, data);
